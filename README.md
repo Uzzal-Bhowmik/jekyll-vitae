@@ -56,7 +56,8 @@ git clone https://github.com/sakhsain/jekyll-vitae.git
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sakhsain/jekyll-vitae&type=Date)](https://star-history.com/#sakhsain/jekyll-vitae&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=sakhsain/jekyll-vitae&type=Timeline)
+
 
 ## Contributing
 
