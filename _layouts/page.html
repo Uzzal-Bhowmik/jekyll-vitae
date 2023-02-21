@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>{{ page.title }} - {{ site.name }}</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="media/screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/print.css" type="text/css" rel="stylesheet" media="print">
+  <link href="media/academicons.min.css" rel="stylesheet">
+  
+  <!-- favicon -->
+  <link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon"> 
+  
+
+  <!-- imports -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
+</body>
+</html>

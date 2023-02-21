@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>{{ site.name }}</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="assets/css/screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="assets/css/print.css" type="text/css" rel="stylesheet" media="print">
+  <link href="assets/css/academicons.min.css" rel="stylesheet">
+  
+  <!-- favicon -->
+  <link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon"> 
+  
+
+  <!-- imports -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+  <div id="main">
+    <div id="content">
+       <h1>{{ page.title }}</h1>
+       <p>{{ site.description }}</p>
+         <div id="sociallinks">
+         <i class="fa fa-envelope"></i> <a href="mailto:{{ site.mail.url }}">{{ site.mail.address }}</a>
+         <i class="fa fa-github"></i> <a href="{{ site.github.url }}">{{ site.github.username }}</a>
+         <i class="fa fa-linkedin"></i> <a href="{{ site.linkedin.url }}">{{ site.linkedin.username }}</a>
+      </div>
+    {{ content }}
+    </div>
+    </div>
+
+<footer class="footer">
+    <button onclick="window.print()">Print this page</button>
+</footer>
+  
+       
+</body>
+</html>
