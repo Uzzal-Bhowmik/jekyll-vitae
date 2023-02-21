@@ -21,7 +21,7 @@ Fork this repo, then Go to settings and set master branch as Github Pages source
 
 ### Step 2) Customize and configure
 
-Edit _config.yml (customize whatever you want) . After editing, Your site will be viewable at `https://<username>.github.io/jekyll-vitae/`
+Edit `_config.yml` (customize whatever you want) . After editing, Your site will be viewable at `https://<username>.github.io/jekyll-vitae/`
 
 ![_config.yml](/assets/images/config.png "_config.yml")
 
