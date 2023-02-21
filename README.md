@@ -9,7 +9,7 @@
 
 You can set it up in just a few minutes. Then you can configure and customize your theme and you can create a Amazing Resume.
 
-![Jekyll Vitae Theme Screenshot](assets/images/jekyll-vitae-theme-screenshot.jpg "Jekyll Vitae Theme Screenshot")
+![Jekyll Vitae Theme Screenshot](assets/images/jekyll-vitae-theme-screenshot.png "Jekyll Vitae Theme Screenshot")
 
 ## Quick Start
 
