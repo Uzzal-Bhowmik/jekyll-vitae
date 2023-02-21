@@ -56,4 +56,4 @@ git clone https://github.com/sakhsain/jekyll-vitae.git
 
 ## Contributing
 
-Interested in contributing to Jekyll Vitae? We'd love your help. Jekyll Vitae is an open source project, so you can contribute to the project. It's easy to contribute, just fork the repo then making any change. At last, open a pull request and wait for few hours. After, revewing your pull request; I will merge your proposed changes into the project. So, don't late, open your computer quickly and [Open an Issue](https://github.com/sakhsain/jekyll-vitae/issues/new)!
+Interested in contributing to Jekyll Vitae? I'd love your help. Jekyll Vitae is an open source project, so you can contribute to the project. It's easy to contribute, just fork the repo then making any change. At last, open a pull request and wait for few hours. After, revewing your pull request; I will merge your proposed changes into the project. So, don't late, open your computer quickly and [Open an Issue](https://github.com/sakhsain/jekyll-vitae/issues/new)!
