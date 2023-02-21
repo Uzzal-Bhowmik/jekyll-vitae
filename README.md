@@ -52,7 +52,7 @@ git clone https://github.com/sakhsain/jekyll-vitae.git
 
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [Benjamin L. Moore](https://github.com/blmoore/) - Thanks for creating [md-cv](https://github.com/blmoore/md-cv)
-- [meyerweb.com](http://meyerweb.com/) - Thanks for the stylesheets.
+- [meyerweb.com](http://meyerweb.com/) - Thanks for creating the stylesheets.
 
 ## Contributing
 
