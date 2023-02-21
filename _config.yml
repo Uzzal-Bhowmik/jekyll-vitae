@@ -1,0 +1,33 @@
+markdown:   kramdown
+
+# Name of your site (displayed in the header)
+name: Your Name
+
+# Short bio (displayed in the header)
+description: Web Developer from Somewhere
+
+# URL of your favicon image (Use .ico file format for better quality)
+favicon: 
+
+
+error:
+  img:  # URL of an image that you want to use for the '404 - Page not found' page
+
+mail:
+  url:  # URL of your email address (e.g. person@example.com)
+  address:  #Write whatever you want :-)
+
+github:
+  url:   # URL of your GitHub account (e.g. https://github.com/username)
+  username: 
+
+linkedin:  # URL of your linkedin address 
+  url:  
+  username: 
+
+  
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/md-cv"
