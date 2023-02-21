@@ -39,7 +39,7 @@ Edit `/Index.md` to create your resume. Write in Markdown language in this file 
 git clone https://github.com/sakhsain/jekyll-vitae.git
 ```
 
-5. Commit any changes and push everything to the master branch of your GitHub repository. GitHub Page will then deploy your repository to site and it's will be viewable.
+2. Commit any changes and push everything to the master branch of your GitHub repository. GitHub Page will then deploy your repository to site and it's will be viewable.
 
   
 
