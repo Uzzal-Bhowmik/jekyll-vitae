@@ -11,15 +11,15 @@ favicon:
 
 mail:
   url:  # URL of your email address (e.g. person@example.com)
-  address:  #Write whatever you want :-)
+  address: nishita@example.com #Write whatever you want :-)
 
 github:
   url:   # URL of your GitHub account (e.g. https://github.com/username)
-  username: 
+  username: nishita
 
 linkedin:  # URL of your linkedin address 
   url:  
-  username: 
+  username: nishita
 
   
 # If you're hosting your site at a Project repository on GitHub pages
