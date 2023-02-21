@@ -99,7 +99,7 @@ __description:__  Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxim
 ## Awards
 
 
-ICPC Dhaka Regional 2023; 3rd place)
+ICPC Dhaka Regional 2023; 3rd place.
 
 
 ## References
