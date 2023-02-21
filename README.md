@@ -54,6 +54,10 @@ git clone https://github.com/sakhsain/jekyll-vitae.git
 - [Benjamin L. Moore](https://github.com/blmoore/) - Thanks for creating [md-cv](https://github.com/blmoore/md-cv)
 - [meyerweb.com](http://meyerweb.com/) - Thanks for creating the stylesheets.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sakhsain/jekyll-vitae&type=Date)](https://star-history.com/#sakhsain/jekyll-vitae&Date)
+
 ## Contributing
 
 Interested in contributing to Jekyll Vitae? I'd love your help. Jekyll Vitae is an open source project, so you can contribute to the project. It's easy to contribute, just fork the repo then making any change. At last, open a pull request and wait for few hours. After, revewing your pull request; I will merge your proposed changes into the project. So, don't late, open your computer quickly and [Open an Issue](https://github.com/sakhsain/jekyll-vitae/issues/new)!
