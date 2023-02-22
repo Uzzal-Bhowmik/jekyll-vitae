@@ -9,6 +9,9 @@ description: Web Developer from Somewhere
 # URL of your favicon image (Use .ico file format for better quality)
 favicon: 
 
+error:
+  img: https://raw.githubusercontent.com/sakhsain/jekyll-vitae/main/assets/images/error-image.png # URL of an image that you want to use for the '404 - Page not found' page
+
 mail:
   url:  # URL of your email address (e.g. person@example.com)
   address:  #Write whatever you want :-)
