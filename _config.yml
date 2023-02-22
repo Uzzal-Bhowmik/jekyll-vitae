@@ -25,7 +25,7 @@ linkedin:  # URL of your linkedin address
   username: 
 
   
-# If you're deploy your site at a repository on GitHub pages
+# If you're deploying your site at a repository on GitHub pages
 # (http://username.github.io/repo-name)
 # and not your user repository (http://username.github.io)
 # then add in the baseurl here, like this: "/repo-name"
