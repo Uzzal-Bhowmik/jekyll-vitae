@@ -1,7 +1,7 @@
 # Jekyll Vitae
 [![Jekyll Theme](https://shields.io/badge/jekyll-theme-red?logo=jekyll&style=flat)](https://github.com/sakhsain/jekyll-vitae)
 
-![Jekyll Vitae Theme Logo](assets/images/jekyll-vitae-logo.png "Jekyll Vitae Theme Logo")
+![Jekyll Vitae Theme Logo](https://raw.githubusercontent.com/sakhsain/jekyll-vitae/main/assets/images/jekyll-vitae-logo.png "Jekyll Vitae Theme Logo")
 
 **Jekyll Vitae** is a Jekyll theme to host resume / CV based on Markdown. It's easy to create your resume/CV using this theme.
 
