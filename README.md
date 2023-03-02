@@ -5,7 +5,7 @@
 
 **Jekyll Vitae** is a Jekyll theme to host resume / CV based on Markdown. It's easy to create your resume/CV using this theme.
 
-> See &middot; [Demo](https://sakhsain.github.io/jekyll-vitae/)
+> View &middot; [Demo](https://sakhsain.github.io/jekyll-vitae/)
 
 It's easy to use, easy to customize and it has lot of benefits.
 
