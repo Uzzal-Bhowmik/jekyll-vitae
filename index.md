@@ -1,10 +1,10 @@
+<!-- Your Image -->
+![user](assets/images/user.png)
+
 ---
 layout: resume
 title: Nishita Chowdhury
 ---
-
-<!-- Your Image -->
-![user](assets/images/user.png)
 
 ## Currently
 
