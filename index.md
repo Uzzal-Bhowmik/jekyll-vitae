@@ -4,7 +4,7 @@ title: Nishita Chowdhury
 ---
 
 <!-- Your Image -->
-<img style="display= block; width= 100px; height= 100px; float: right;" src="assets/images/user.png" alt="User Image" />
+![user](assets/images/user.png)
 
 ## Currently
 
